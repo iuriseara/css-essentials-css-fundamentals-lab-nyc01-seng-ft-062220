@@ -8,7 +8,7 @@ header {
   margin: auto;
 }
 
-nav {
+nav > a{
   padding: 10px;
   background-color: lightgrey;
   margin: auto;
