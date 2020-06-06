@@ -38,6 +38,7 @@ figcaption {
 }
 
 #details > div {
+  display: inline-block;
   float: left;
   width: 25%;
 }
