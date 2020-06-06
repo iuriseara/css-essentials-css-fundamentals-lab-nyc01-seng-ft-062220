@@ -15,7 +15,9 @@ nav > a{
 }
 
 img {
+  display: block;
   margin: auto;
+  width: auto;
 }
 
 #featured-property {
