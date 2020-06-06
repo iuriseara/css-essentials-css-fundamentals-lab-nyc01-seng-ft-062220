@@ -10,6 +10,8 @@ header {
 }
 
 nav {
+  padding: 10px;
+  background-color: lightgrey;
   margin: auto;
 }
 
