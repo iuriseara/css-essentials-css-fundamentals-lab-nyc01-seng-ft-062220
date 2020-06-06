@@ -39,6 +39,7 @@ figcaption {
 
 #details > div {
   display: inline-block;
+  margin: auto;
   float: left;
   width: 25%;
 }
